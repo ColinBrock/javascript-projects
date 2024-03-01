@@ -41,7 +41,7 @@ function reverseSpaces() {
 
 //5)
 function commaSpace() {
-	let check;
+	let check = '';
 	let output;
 	//TODO: write the code required for this step
   
